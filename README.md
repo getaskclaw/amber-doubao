@@ -31,7 +31,8 @@ English: [README.en.md](README.en.md)
 
 | 期 | 内容 | 结论 |
 |---|---|---|
-| [2026-W38](results/2026-W38.md) | doubao-seed-evolving（≡ 2.1-pro-0915 官方同步版）@ high 全库首考 | 案级 16/23 追平已发布最佳；施工/文本/运维/漂移 97.9% 顶级，审查/视觉/前端净 −2 负资产，核验三案全部考墙零交付 |
+| [2026-W38](results/2026-W38.md) | doubao-seed-evolving（≡ 2.1-pro-0915 官方同步版）@ high 全库首考 | 案级 16/23 追平已发布最佳；施工/文本/运维/漂移 97.9% 顶级，审查/视觉/前端净 −2 负资产，核验三案初扫考墙、3600s 补考全交付（addendum 1） |
+| [线级身份探针](docs/model-identity-wire-probe-2026-09.md) | doubao ≈ ds-flash 换皮假说终审 | 不成立：模板指纹 47/31/84 两两不同，encrypted_content 仅豆包携带；成绩相似=能力谱趋同非贴牌 |
 
 ## 免责
 

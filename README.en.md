@@ -29,7 +29,8 @@ Same model name, same provider, two runs can still score differently — samplin
 
 | Issue | Content | Verdict |
 |---|---|---|
-| [2026-W38](results/2026-W38.md) | doubao-seed-evolving (≡ 2.1-pro-0915, official sync) @ high, full-library debut | Case-level 16/23 ties the best published lane; build/text/ops/req-drift 97.9% top-tier, review/vision/ui-build net −2 liability, all three verify cases zero-delivery at the harness wall |
+| [2026-W38](results/2026-W38.md) | doubao-seed-evolving (≡ 2.1-pro-0915, official sync) @ high, full-library debut | Case-level 16/23 ties the best published lane; build/text/ops/req-drift 97.9% top-tier, review/vision/ui-build net −2 liability, verify trio walled in the main sweep but all delivered under the 3600s makeup (addendum 1) |
+| [Wire identity probe](docs/model-identity-wire-probe-2026-09.en.md) | Final verdict on the "doubao ≈ ds-flash re-badge" hypothesis | Falsified: template fingerprints 47/31/84 pairwise-distinct, encrypted_content on doubao only; score similarity = capability convergence, not a re-label |
 
 ## Disclaimer
 
