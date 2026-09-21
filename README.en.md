@@ -8,6 +8,7 @@ Public AMBER benchmark results for Doubao models on Volcengine Ark — cases pri
 - One report per issue in `results/YYYY-Www.md`: same paper set, same harness, full-library runs (23 cases / 26 papers).
 - Each issue pins: library size and hashes, per-case scores and pass/fail, terminal states, token usage and latency, environment fingerprint, and qualitative verdicts written under an evidence discipline.
 - Cases, oracles, transcripts and intermediate artifacts are **never published** (see "Publication discipline").
+- Sister repos: [amber-crof](https://github.com/getaskclaw/amber-crof), [amber-commandcode](https://github.com/getaskclaw/amber-commandcode), [amber-deepseek](https://github.com/getaskclaw/amber-deepseek), [amber-devin](https://github.com/getaskclaw/amber-devin), [amber-goldenpotato](https://github.com/getaskclaw/amber-goldenpotato), [amber-gpt](https://github.com/getaskclaw/amber-gpt), [amber-kimi](https://github.com/getaskclaw/amber-kimi), [amber-ollama](https://github.com/getaskclaw/amber-ollama), [amber-opencode](https://github.com/getaskclaw/amber-opencode), [amber-stepfun](https://github.com/getaskclaw/amber-stepfun), [amber-workbuddy](https://github.com/getaskclaw/amber-workbuddy).
 
 ## Publication discipline (red lines)
 

@@ -8,7 +8,7 @@ English: [README.en.md](README.en.md)
 - 每期 `results/YYYY-Www.md`：同题、同 harness，对目标模型跑全库（23 案 / 26 卷）。
 - 一期固定报告：题集规模与哈希、每案得分与通过/失败、终端终态、token 用量与时延、环境指纹、按证据纪律写的定性裁决。
 - 题目、oracle、transcript、中间产物**永不公开**（见下「发布纪律」）。
-- 姐妹仓：[amber-gpt](https://github.com/getaskclaw/amber-gpt)（GPT 周测）、[amber-crof](https://github.com/getaskclaw/amber-crof)、[amber-ollama](https://github.com/getaskclaw/amber-ollama)、[amber-devin](https://github.com/getaskclaw/amber-devin)、[amber-deepseek](https://github.com/getaskclaw/amber-deepseek)、[amber-commandcode](https://github.com/getaskclaw/amber-commandcode)、[amber-opencode](https://github.com/getaskclaw/amber-opencode)、[amber-workbuddy](https://github.com/getaskclaw/amber-workbuddy)、[amber-kimi](https://github.com/getaskclaw/amber-kimi)。
+- 姐妹仓：[amber-gpt](https://github.com/getaskclaw/amber-gpt)（GPT 周测）、[amber-crof](https://github.com/getaskclaw/amber-crof)、[amber-ollama](https://github.com/getaskclaw/amber-ollama)、[amber-devin](https://github.com/getaskclaw/amber-devin)、[amber-deepseek](https://github.com/getaskclaw/amber-deepseek)、[amber-commandcode](https://github.com/getaskclaw/amber-commandcode)、[amber-opencode](https://github.com/getaskclaw/amber-opencode)、[amber-workbuddy](https://github.com/getaskclaw/amber-workbuddy)、[amber-kimi](https://github.com/getaskclaw/amber-kimi)、[amber-goldenpotato](https://github.com/getaskclaw/amber-goldenpotato)、[amber-stepfun](https://github.com/getaskclaw/amber-stepfun)。
 - AMBER 是 agentic 实战题库（施工/运维/审查/视觉/需求漂移），规范与制题工具见 [getaskclaw/amber](https://github.com/getaskclaw/amber)；考题本体私有。
 
 ## 发布纪律（红线）
