@@ -4,6 +4,8 @@
 
 > ⚠️ **Correction (2026-10-02, second)**: one defense-axis case, A-d511f9e8, is now NA on every lane (the exam room did not grade the file the candidate delivered, and the grader asks for something the task text does not say). The denominator and the **number of passed cases do not change**; every lane's total now carries `'`. In this repo's issue tables, read that cell as NA. Everything else stays as published; the [correction notice](https://github.com/getaskclaw/amber/blob/main/docs/corrections-2026-10-02-a-d511f9e8.en.md) governs.
 
+> **2026-10-07 update**: A-cdc3d11a (review): On one review case the grader counted every sub-point of a well-formed finding as a separate unproven claim and treated real defects outside its short answer list as false alarms, so a correct, well-formatted review could not reach the passing line; the case is held on every lane, denominator unchanged, until the grader and exam room are repaired and the case is re-sat. This lane (doubao-seed-evolving @ Volcengine Ark Agent Plan) the cell goes from a loss to NA (held); the case moves from a loss to NA on 27 lanes and no sitting is re-run. The pass count is unchanged (17'/24 on the board); losses go 4→3 and NA 3→4; the review axis stays 1/2 with 1 NA. The cell is updated in the [W38 issue](results/2026-W38.md). See the [amber spec repo correction of 2026-10-07 (A-cdc3d11a)](https://github.com/getaskclaw/amber/blob/main/docs/corrections-2026-10-07-a-cdc3d11a.en.md).
+
 Public AMBER benchmark results for Doubao models on Volcengine Ark — cases private, results public.
 中文：[README.md](README.md)
 
